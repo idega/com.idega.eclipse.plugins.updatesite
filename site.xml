@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.idega.eclipse.plugins.feature_1.0.2.jar" id="com.idega.eclipse.plugins.feature" version="1.0.2">
+   <feature url="features/com.idega.eclipse.plugins.feature_1.0.3.jar" id="com.idega.eclipse.plugins.feature" version="1.0.3">
       <category name="com.idega.eclipse.plugins"/>
    </feature>
    <category-def name="com.idega.eclipse.plugins" label="idegaweb"/>
