@@ -6,5 +6,8 @@
    <feature url="features/com.idega.eclipse.plugins.feature_1.1.1.jar" id="com.idega.eclipse.plugins.feature" version="1.1.1">
       <category name="com.idega.eclipse.plugins"/>
    </feature>
+   <feature url="features/com.idega.eclipse.plugins.feature_2.0.1.jar" id="com.idega.eclipse.plugins.feature" version="2.0.1">
+      <category name="com.idega.eclipse.plugins"/>
+   </feature>
    <category-def name="com.idega.eclipse.plugins" label="idegaweb"/>
 </site>
